@@ -1,5 +1,8 @@
 # Blender .NET
 ## Integrating Blender and .NET
+
+WIP
+
 ## Python Environment
 Included PYPI packages:
 - pip install ipython
@@ -11,9 +14,11 @@ Included PYPI packages:
 - pip install jupyterlab
 - pip install pyinstaller
 - pip install dearpygui
+<!--
 # Starter projects and templates
 ## Apps
 ## Blender Addon
 ## CLI Scripts
 ## Libraries
 ## Notebooks
+-->
