@@ -1,0 +1,8 @@
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.191 try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegra…
+   2        0.863 dotnet restore
+   3        1.734 dotnet build
+   4        1.393 dotnet build
+   5        1.400 dotnet build --configuration Debug
+   6        1.372 dotnet build --configuration Release
